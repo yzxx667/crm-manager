@@ -1,0 +1,24 @@
+{
+  "name": "manager",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --mode dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^1.1.4",
+    "axios": "^0.26.1",
+    "element-plus": "^2.1.8",
+    "vite": "^2.9.0",
+    "vue": "^3.0.5",
+    "vue-router": "^4.0.14",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.0",
+    "@vue/compiler-sfc": "^3.0.5",
+    "sass": "^1.49.11"
+  }
+}
